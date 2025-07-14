@@ -1,5 +1,5 @@
 """
-User Persona Generator using Google Gemini 1.5 Pro
+User Persona Generator using Google Gemini 1.5 Pro.
 """
 import json
 from datetime import datetime
