@@ -1,0 +1,481 @@
+================================================================================
+REDDIT USER PERSONA: kojied
+================================================================================
+Generated on: 2025-07-14T19:31:39.486294
+Powered by: Google Gemini 1.5 Flash
+Data analyzed: 31 posts, 100 comments
+
+ACCOUNT STATISTICS
+----------------------------------------
+Account Age: 2020 days
+Comment Karma: 1823
+Link Karma: 216
+Total Karma: 2039
+
+PERSONA SUMMARY
+----------------------------------------
+kojied is a likely 25-35 year-old iOS developer living in or near New York City.  He is highly analytical and curious, with interests spanning technology (especially Apple's Vision Pro), finance (options trading), and gaming.  He values financial responsibility and displays technological optimism.
+
+DEMOGRAPHICS
+----------------------------------------
+• Age Range
+  Confidence: Medium
+  Description: Likely between 25 and 35 years old.  This is inferred from his complaints about intern season in NYC, his apparent familiarity with iOS development and the Vision Pro, and his interest in financial markets (options trading).
+  Evidence:
+    - "I feel violated by intern season..."
+    - "There's so many coming of age movies for boomers and millennials, what about for gen-Z?..."
+    - "I’m an iOS developer building in visionOS...."
+  Citations:
+    - https://reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/
+    - https://reddit.com/r/GenZ/comments/1erotgn/whats_a_movie_that_best_represents_your_childhood/
+    - https://reddit.com/r/visionosdev/comments/1b3yugb/best_blogs_tutorial_channels_to_learn/
+
+• Location
+  Confidence: High
+  Description: Resides in or near New York City. This is explicitly stated in his post about intern season.
+  Evidence:
+    - "I feel violated by intern season..."
+    - "There's this bar that I frequent a few blocks away from my house...."
+  Citations:
+    - https://reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/
+
+• Occupation
+  Confidence: Medium
+  Description: Works as an iOS developer and possibly has experience in environmental consulting.  He actively engages in options trading. 
+  Evidence:
+    - "Hey I’m an iOS developer building in visionOS..."
+    - "as someone who's worked in environmental consulting..."
+    - "I’ve been trading options for the past month or so..."
+  Citations:
+    - https://reddit.com/r/visionosdev/comments/1b3yugb/best_blogs_tutorial_channels_to_learn/
+    - https://reddit.com/r/ClimateOffensive/comments/15xgmea/tracking_our_individual_impacts_on_the_world/
+    - https://reddit.com/r/stocks/comments/fk6aya/still_buying_options/
+
+• Education Level
+  Confidence: Medium
+  Description: Likely holds at least a bachelor's degree, given his iOS development skills and apparent understanding of financial markets.
+  Evidence:
+    - "Hey I’m an iOS developer building in visionOS..."
+    - "I’ve been trading options for the past month or so..."
+  Citations:
+    - https://reddit.com/r/visionosdev/comments/1b3yugb/best_blogs_tutorial_channels_to_learn/
+    - https://reddit.com/r/stocks/comments/fk6aya/still_buying_options/
+
+
+INTERESTS
+----------------------------------------
+• Technology
+  Confidence: High
+  Description: Shows significant interest in Apple's Vision Pro and visionOS development.  He actively participates in relevant subreddits and seeks learning resources.
+  Evidence:
+    - "Spacial tours with 3D map and 360˚ video..."
+    - "Best blogs, tutorial channels to learn..."
+    - "Can't wait for Vision Air 5 launching in 2034..."
+  Citations:
+    - https://reddit.com/r/VisionPro/comments/1b4yi15/spacial_tours_with_3d_map_and_360_video/
+    - https://reddit.com/r/visionosdev/comments/1b3yugb/best_blogs_tutorial_channels_to_learn/
+    - https://reddit.com/r/VisionPro/comments/1b36n83/cant_wait_for_vision_air_5_launching_in_2034_with/
+
+• Finance
+  Confidence: High
+  Description: Actively involved in stock and options trading; seeks advice and shares experiences in relevant subreddits.
+  Evidence:
+    - "Still buying options?..."
+    - "Seeking advice: I’ve made some gains buying put options this month..."
+    - "Crazy gains, what now?..."
+  Citations:
+    - https://reddit.com/r/stocks/comments/fk6aya/still_buying_options/
+    - https://reddit.com/r/options/comments/fiflte/seeking_advice_ive_made_some_gains_buying_put/
+    - https://reddit.com/r/wallstreetbets/comments/fhp5ae/crazy_gains_what_now_should_i_cash_out_or_double/
+
+• Gaming
+  Confidence: Medium
+  Description: Plays Manor Lords,  and shows some interest in Project Zomboid.
+  Evidence:
+    - "Sorry to hear that man, in the future you may want to have multiple granaries..."
+    - "3 months in, the cleanest and most functional RV interior zomboid has to offer...."
+  Citations:
+    - https://reddit.com/r/ManorLords/comments/1ly3nuf/my_granary_burned_down/n2r16t2/
+    - https://reddit.com/r/projectzomboid/comments/13dwl0i/3_months_in_the_cleanest_and_most_functional_rv/
+
+• Anime
+  Confidence: Low
+  Description: Mentions watching Cyberpunk: Edgerunners on the Vision Pro.
+  Evidence:
+    - "Watching Edgerunners on the moon feels..."
+  Citations:
+    - https://reddit.com/r/VisionPro/comments/1alx270/watching_edgerunners_on_the_moon_feels/
+
+• Plants
+  Confidence: Low
+  Description: Shows interest in plant care, seeking advice on issues with English Ivy and Creepy Charlie.
+  Evidence:
+    - "English ivy is withering..."
+    - "Creepy charlie with dead leaves..."
+  Citations:
+    - https://reddit.com/r/plantclinic/comments/16tj525/helpenglish_ivy_is_withering_any_suggestions_on/
+    - https://reddit.com/r/plantclinic/comments/16dlrdq/creepy_charlie_with_dead_leaves_is_this_normal/
+
+
+PERSONALITY TRAITS
+----------------------------------------
+• Analytical
+  Confidence: High
+  Description: Demonstrates a tendency towards analytical thinking and problem-solving, particularly evident in his posts about options trading and app development ideas.
+  Evidence:
+    - "How do you decide what to buy and not buy?..."
+    - "Seeking advice: I’ve made some gains buying put options this month, but I’ve not been doing call option spread...."
+  Citations:
+    - https://reddit.com/r/Frugal/comments/15szxcx/how_do_you_decide_what_to_buy_and_not_buy/
+    - https://reddit.com/r/options/comments/fiflte/seeking_advice_ive_made_some_gains_buying_put/
+
+• Curious
+  Confidence: High
+  Description: Actively seeks information and explores new technologies (Vision Pro) and investment strategies (options trading).
+  Evidence:
+    - "Best blogs, tutorial channels to learn..."
+    - "Still buying options?..."
+  Citations:
+    - https://reddit.com/r/visionosdev/comments/1b3yugb/best_blogs_tutorial_channels_to_learn/
+    - https://reddit.com/r/stocks/comments/fk6aya/still_buying_options/
+
+• Slightly Cynical
+  Confidence: Medium
+  Description: Expresses frustration with certain situations (intern season, unresponsive customer support) and questions established narratives (H1B exploitation).
+  Evidence:
+    - "I feel violated by intern season..."
+    - "Lyft bike on the loose, support team will "email me as soon as possible"..."
+  Citations:
+    - https://reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/
+    - https://reddit.com/r/Lyft/comments/166ksv7/lyft_bike_on_the_loose_support_team_will_email_me/
+
+
+BEHAVIOR PATTERNS
+----------------------------------------
+• Posting Frequency
+  Confidence: Medium
+  Description: Posts relatively frequently, though not consistently across subreddits.  There's a cluster of posts related to the Vision Pro.
+  Evidence:
+    - "M..."
+    - "u..."
+    - "l..."
+    - "t..."
+    - "i..."
+    - "p..."
+    - "l..."
+    - "e..."
+    - " ..."
+    - "p..."
+    - "o..."
+    - "s..."
+    - "t..."
+    - "s..."
+    - " ..."
+    - "a..."
+    - "c..."
+    - "r..."
+    - "o..."
+    - "s..."
+    - "s..."
+    - " ..."
+    - "v..."
+    - "a..."
+    - "r..."
+    - "i..."
+    - "o..."
+    - "u..."
+    - "s..."
+    - " ..."
+    - "s..."
+    - "u..."
+    - "b..."
+    - "r..."
+    - "e..."
+    - "d..."
+    - "d..."
+    - "i..."
+    - "t..."
+    - "s..."
+    - " ..."
+    - "o..."
+    - "v..."
+    - "e..."
+    - "r..."
+    - " ..."
+    - "a..."
+    - " ..."
+    - "p..."
+    - "e..."
+    - "r..."
+    - "i..."
+    - "o..."
+    - "d..."
+    - " ..."
+    - "o..."
+    - "f..."
+    - " ..."
+    - "t..."
+    - "i..."
+    - "m..."
+    - "e..."
+    - "...."
+  Citations:
+    - Multiple post URLs from the provided data
+
+• Engagement Style
+  Confidence: Medium
+  Description: Engages in discussions in some threads, but also creates stand-alone posts.  His engagement varies depending on the subreddit.
+  Evidence:
+    - "S..."
+    - "o..."
+    - "m..."
+    - "e..."
+    - " ..."
+    - "p..."
+    - "o..."
+    - "s..."
+    - "t..."
+    - "s..."
+    - " ..."
+    - "h..."
+    - "a..."
+    - "v..."
+    - "e..."
+    - " ..."
+    - "m..."
+    - "a..."
+    - "n..."
+    - "y..."
+    - " ..."
+    - "c..."
+    - "o..."
+    - "m..."
+    - "m..."
+    - "e..."
+    - "n..."
+    - "t..."
+    - "s..."
+    - ",..."
+    - " ..."
+    - "o..."
+    - "t..."
+    - "h..."
+    - "e..."
+    - "r..."
+    - "s..."
+    - " ..."
+    - "h..."
+    - "a..."
+    - "v..."
+    - "e..."
+    - " ..."
+    - "f..."
+    - "e..."
+    - "w..."
+    - " ..."
+    - "o..."
+    - "r..."
+    - " ..."
+    - "n..."
+    - "o..."
+    - "n..."
+    - "e..."
+    - "...."
+    - " ..."
+    - " ..."
+    - "H..."
+    - "e..."
+    - " ..."
+    - "p..."
+    - "a..."
+    - "r..."
+    - "t..."
+    - "i..."
+    - "c..."
+    - "i..."
+    - "p..."
+    - "a..."
+    - "t..."
+    - "e..."
+    - "s..."
+    - " ..."
+    - "i..."
+    - "n..."
+    - " ..."
+    - "c..."
+    - "o..."
+    - "m..."
+    - "m..."
+    - "e..."
+    - "n..."
+    - "t..."
+    - " ..."
+    - "t..."
+    - "h..."
+    - "r..."
+    - "e..."
+    - "a..."
+    - "d..."
+    - "s..."
+    - " ..."
+    - "o..."
+    - "n..."
+    - " ..."
+    - "o..."
+    - "c..."
+    - "c..."
+    - "a..."
+    - "s..."
+    - "i..."
+    - "o..."
+    - "n..."
+    - "...."
+  Citations:
+    - Multiple post URLs with varying comment counts from the provided data
+
+• Content Preferences
+  Confidence: High
+  Description: Favors subreddits related to technology, finance, gaming, and plant care.  Shows a strong interest in emerging technology and personal finance.
+  Evidence:
+    - "P..."
+    - "o..."
+    - "s..."
+    - "t..."
+    - "s..."
+    - " ..."
+    - "a..."
+    - "c..."
+    - "r..."
+    - "o..."
+    - "s..."
+    - "s..."
+    - " ..."
+    - "a..."
+    - " ..."
+    - "r..."
+    - "a..."
+    - "n..."
+    - "g..."
+    - "e..."
+    - " ..."
+    - "o..."
+    - "f..."
+    - " ..."
+    - "s..."
+    - "u..."
+    - "b..."
+    - "r..."
+    - "e..."
+    - "d..."
+    - "d..."
+    - "i..."
+    - "t..."
+    - "s..."
+    - " ..."
+    - "r..."
+    - "e..."
+    - "l..."
+    - "a..."
+    - "t..."
+    - "e..."
+    - "d..."
+    - " ..."
+    - "t..."
+    - "o..."
+    - " ..."
+    - "t..."
+    - "e..."
+    - "c..."
+    - "h..."
+    - "n..."
+    - "o..."
+    - "l..."
+    - "o..."
+    - "g..."
+    - "y..."
+    - ",..."
+    - " ..."
+    - "f..."
+    - "i..."
+    - "n..."
+    - "a..."
+    - "n..."
+    - "c..."
+    - "e..."
+    - ",..."
+    - " ..."
+    - "g..."
+    - "a..."
+    - "m..."
+    - "i..."
+    - "n..."
+    - "g..."
+    - " ..."
+    - "a..."
+    - "n..."
+    - "d..."
+    - " ..."
+    - "p..."
+    - "l..."
+    - "a..."
+    - "n..."
+    - "t..."
+    - " ..."
+    - "c..."
+    - "a..."
+    - "r..."
+    - "e..."
+    - "...."
+  Citations:
+    - Multiple post URLs across diverse subreddits
+
+
+COMMUNICATION STYLE
+----------------------------------------
+• Tone
+  Confidence: Medium
+  Description: Tone varies depending on the context. Can be humorous (Vision Pro posts), frustrated (Lyft post), analytical (finance posts), or seeking help (plant care posts).
+  Evidence:
+    - "I feel violated by intern season..."
+    - "Watching Edgerunners on the moon feels..."
+    - "Lyft bike on the loose..."
+    - "English ivy in critical condition..."
+  Citations:
+    - https://reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/
+    - https://reddit.com/r/VisionPro/comments/1alx270/watching_edgerunners_on_the_moon_feels/
+    - https://reddit.com/r/Lyft/comments/166ksv7/lyft_bike_on_the_loose_support_team_will_email_me/
+    - https://reddit.com/r/plantclinic/comments/15pvycv/english_ivy_in_critical_condition/
+
+• Language Use
+  Confidence: Medium
+  Description: Uses relatively straightforward language, adjusting formality based on the subreddit and context.  Occasionally uses informal slang or humor.
+  Evidence:
+    - "Naturally I felt violated..."
+    - "imo trading raw materials is easier..."
+  Citations:
+    - https://reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/
+    - https://reddit.com/r/ManorLords/comments/1lscpmo/how_does_influence_on_hard_work/n1hhd7z/
+
+
+VALUES & BELIEFS
+----------------------------------------
+• Financial Responsibility
+  Confidence: Medium
+  Description: Demonstrates concern about managing finances wisely, indicated by his posts in r/Frugal and his active participation in finance-related subreddits.
+  Evidence:
+    - "How do you decide what to buy and not buy?..."
+    - "I’ve been trading options for the past month or so..."
+  Citations:
+    - https://reddit.com/r/Frugal/comments/15szxcx/how_do_you_decide_what_to_buy_and_not_buy/
+    - https://reddit.com/r/stocks/comments/fk6aya/still_buying_options/
+
+• Technological Optimism
+  Confidence: High
+  Description: Shows enthusiasm for new technologies, particularly Apple's Vision Pro, and believes in its potential.
+  Evidence:
+    - "Can't wait for Vision Air 5 launching in 2034..."
+    - "Watching Edgerunners on the moon feels..."
+  Citations:
+    - https://reddit.com/r/VisionPro/comments/1b36n83/cant_wait_for_vision_air_5_launching_in_2034_with/
+    - https://reddit.com/r/VisionPro/comments/1alx270/watching_edgerunners_on_the_moon_feels/
+
