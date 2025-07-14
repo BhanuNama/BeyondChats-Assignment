@@ -216,7 +216,7 @@ def main():
         output_file = save_persona_to_file(persona_text, username, output_dir)
         
         print("=" * 60)
-        print("✅ PERSONA GENERATION COMPLETE!")
+        print("PERSONA GENERATION COMPLETE!")
         print(f"   Username: {username}")
         print(f"   Output file: {output_file}")
         print(f"   Posts analyzed: {len(posts)}")
@@ -235,7 +235,7 @@ def main():
         return 1
         
     except Exception as e:
-        print(f"\n❌ ERROR: {e}")
+        print(f"\n ERROR: {e}")
         
         if args.verbose if 'args' in locals() else False:
             print("\nFull traceback:")
