@@ -1,5 +1,5 @@
 """
-Configuration settings for the Reddit Persona Generator
+Configuration settings for the Reddit Persona Generator.
 """
 import os
 from dotenv import load_dotenv
