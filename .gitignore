@@ -52,7 +52,8 @@ venv.bak/
 user_personas/
 output/
 personas/
-*.txt
+!sample_outputs/
+!sample_outputs/*.txt
 !README.md
 !requirements.txt
 
