@@ -35,7 +35,7 @@ OUTPUT_DIR=user_personas
     with open('.env.example', 'w', encoding='utf-8') as f:
         f.write(env_example_content)
     
-    print("✅ Created .env.example file")
+    print("Created .env.example file")
 
 
 def check_dependencies():
@@ -58,11 +58,11 @@ def check_dependencies():
             missing_packages.append(package_name)
     
     if missing_packages:
-        print(f"❌ Missing packages: {', '.join(missing_packages)}")
+        print(f" Missing packages: {', '.join(missing_packages)}")
         print("Run: pip install -r requirements.txt")
         return False
     else:
-        print("✅ All required packages are installed")
+        print(" All required packages are installed")
         return True
 
 
@@ -71,7 +71,7 @@ def check_env_file():
     env_file = Path('.env')
     
     if not env_file.exists():
-        print("❌ .env file not found")
+        print(" .env file not found")
         print("Copy .env.example to .env and fill in your API keys")
         return False
     
@@ -96,15 +96,15 @@ def check_env_file():
             placeholder_vars.append(var)
     
     if missing_vars:
-        print(f"❌ Missing environment variables: {', '.join(missing_vars)}")
+        print(f" Missing environment variables: {', '.join(missing_vars)}")
         return False
     
     if placeholder_vars:
-        print(f"❌ Placeholder values found: {', '.join(placeholder_vars)}")
+        print(f" Placeholder values found: {', '.join(placeholder_vars)}")
         print("Please replace with your actual API keys")
         return False
     
-    print("✅ Environment variables are configured")
+    print(" Environment variables are configured")
     return True
 
 
@@ -116,11 +116,11 @@ def test_reddit_connection():
         
         Config.validate_config()
         scraper = RedditScraper()
-        print("✅ Reddit API connection successful")
+        print(" Reddit API connection successful")
         return True
         
     except Exception as e:
-        print(f"❌ Reddit API connection failed: {e}")
+        print(f" Reddit API connection failed: {e}")
         return False
 
 
@@ -131,7 +131,7 @@ def test_gemini_connection():
         
         # Check if API key exists and is not placeholder
         if not Config.GEMINI_API_KEY or 'your_' in Config.GEMINI_API_KEY:
-            print("❌ Gemini API key not configured properly")
+            print(" Gemini API key not configured properly")
             return False
         
         # Test Gemini connection
@@ -142,12 +142,12 @@ def test_gemini_connection():
         # Simple test request
         response = model.generate_content("Say 'Gemini working!'")
         
-        print("✅ Gemini API connection successful")
+        print(" Gemini API connection successful")
         print(f"   Response: {response.text[:50]}...")
         return True
         
     except Exception as e:
-        print(f"❌ Gemini API connection failed: {e}")
+        print(f" Gemini API connection failed: {e}")
         print("This might be due to:")
         print("- Invalid or missing Gemini API key") 
         print("- Insufficient API quota")
@@ -157,14 +157,14 @@ def test_gemini_connection():
 
 def main():
     """Main setup function"""
-    print("🚀 Reddit Persona Generator Setup")
+    print(" Reddit Persona Generator Setup")
     print("=" * 50)
     
     # Create .env.example
     create_env_example()
     
     # Check dependencies
-    print("\n📦 Checking dependencies...")
+    print("\n Checking dependencies...")
     deps_ok = check_dependencies()
     
     if not deps_ok:
@@ -173,7 +173,7 @@ def main():
         return 1
     
     # Check environment file
-    print("\n🔧 Checking environment configuration...")
+    print("\n Checking environment configuration...")
     env_ok = check_env_file()
     
     if not env_ok:
@@ -191,11 +191,11 @@ def main():
     gemini_ok = test_gemini_connection()
     
     if reddit_ok and gemini_ok:
-        print("\n✅ Setup complete! You can now run the persona generator:")
+        print("\n Setup complete! You can now run the persona generator:")
         print("python reddit_persona_generator.py https://www.reddit.com/user/username/")
         return 0
     else:
-        print("\n❌ Setup incomplete. Please fix the API connection issues above.")
+        print("\n Setup incomplete. Please fix the API connection issues above.")
         return 1
 
 
