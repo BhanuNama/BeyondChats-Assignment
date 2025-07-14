@@ -54,14 +54,22 @@ Contributions are welcome! Feel free to open issues or submit pull requests for 
    git clone https://github.com/BhanuNama/BeyondChats-Assignment
    cd BeyondChats-Assignment
    ```
-2. **Install dependencies**
+2. **(Recommended) Create and activate a virtual environment**
+   ```bash
+   python -m venv venv
+   # On Windows:
+   venv\Scripts\activate
+   # On macOS/Linux:
+   source venv/bin/activate
+   ```
+3. **Install dependencies**
    ```bash
    pip install -r requirements.txt
    ```
-3. **Configure environment**
+4. **Configure environment**
    - Copy `.env.example` to `.env`
    - Fill in your Reddit and Gemini API keys
-4. **Validate setup**
+5. **Validate setup**
    ```bash
    python setup.py
    ```
@@ -170,7 +178,7 @@ For educational and research use. Comply with Reddit and Google API terms.
 ## Contact
 For questions or support, contact:
 
-**Name**  
-Bhanu Nama
+**Name** 
+Bhanu Nama 
 bhanunama08@gmail.com
 
