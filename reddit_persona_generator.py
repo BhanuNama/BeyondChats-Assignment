@@ -5,7 +5,7 @@ Main script to scrape Reddit user data and generate detailed personas
 
 Usage:
     python reddit_persona_generator.py https://www.reddit.com/user/username/
-    python reddit_persona_generator.py --help
+    python reddit_persona_generator.py --help.
 """
 
 import sys
