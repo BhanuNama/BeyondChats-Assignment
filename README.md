@@ -170,6 +170,7 @@ For educational and research use. Comply with Reddit and Google API terms.
 ## Contact
 For questions or support, contact:
 
-**Your Name**  
+**Name**  
+Bhanu Nama
 bhanunama08@gmail.com
 
