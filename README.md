@@ -13,6 +13,34 @@ A professional tool to analyze Reddit user profiles and generate detailed user p
 
 ---
 
+## Use Cases
+- **Academic Research**: Analyze online behavior and digital personas for studies.
+- **Marketing & UX**: Understand target audiences and user archetypes.
+- **Personal Insight**: Discover your own Reddit persona or that of others.
+- **Content Moderation**: Profile users for moderation or community management.
+
+---
+
+## How it Works
+1. **Input:** You provide a Reddit user profile URL.
+2. **Scraping:** The tool collects recent posts and comments using Reddit's API.
+3. **Analysis:** Google Gemini analyzes the content to infer persona traits, citing specific posts/comments as evidence.
+4. **Output:** A detailed persona file is generated, with each insight linked to supporting Reddit content.
+
+---
+
+## Customization
+- **Scraping Limits:** Adjust `MAX_POSTS`, `MAX_COMMENTS`, and `REQUEST_DELAY` in your `.env` file or via command-line arguments.
+- **Output Location:** Change `OUTPUT_DIR` in `.env` or use `--output-dir`.
+- **Persona Depth:** Edit prompts in `persona_generator.py` to tailor the analysis or add/remove persona categories.
+
+---
+
+## Contributing
+Contributions are welcome! Feel free to open issues or submit pull requests for new features, bug fixes, or improvements.
+
+---
+
 ## Prerequisites
 - **Reddit API credentials** ([instructions](https://www.reddit.com/prefs/apps))
 - **Google Gemini API key** ([get one here](https://aistudio.google.com/app/apikey))
@@ -23,8 +51,8 @@ A professional tool to analyze Reddit user profiles and generate detailed user p
 ## Installation & Setup
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd reddit-persona-generator
+   git clone https://github.com/BhanuNama/BeyondChats-Assignment
+   cd BeyondChats-Assignment
    ```
 2. **Install dependencies**
    ```bash
@@ -62,6 +90,24 @@ Sample persona files for assignment users are included in the `sample_outputs/` 
 
 ---
 
+## Example Output
+```
+Persona for Reddit user: kojied
+
+Demographics:
+- Likely male, 20s-30s, based on language and interests. [Cited: https://reddit.com/r/examplepost1]
+
+Interests:
+- Technology, gaming, and science. [Cited: https://reddit.com/r/examplepost2]
+
+Personality Traits:
+- Curious, analytical, and helpful. [Cited: https://reddit.com/r/examplecomment1]
+
+... (see full file for more)
+```
+
+---
+
 ## Configuration
 Set these in your `.env` file:
 ```
@@ -94,10 +140,25 @@ reddit-persona-generator/
 
 ---
 
+## Technologies Used
+- **Python 3.8+**
+- **PRAW** (Python Reddit API Wrapper)
+- **Google Gemini API**
+- **dotenv** (for environment management)
+
+---
+
 ## Troubleshooting
 - **API errors:** Check your API keys and quotas
 - **No output:** User may have no public content or be suspended
 - **Quota errors:** Wait and try again (Gemini Flash has high free limits)
+
+---
+
+## Limitations & Ethics
+- **Private/Suspended Users:** Cannot access content from private or suspended accounts.
+- **LLM Limitations:** AI-generated personas may contain inaccuracies or hallucinations; always verify critical insights.
+- **Ethical Use:** Use responsibly and respect user privacy. Do not use for harassment, surveillance, or any unethical purposes.
 
 ---
 
@@ -106,4 +167,9 @@ For educational and research use. Comply with Reddit and Google API terms.
 
 ---
 
-**Powered by Google Gemini 1.5 Flash** 
+## Contact
+For questions or support, contact:
+
+**Your Name**  
+bhanunama08@gmail.com
+
