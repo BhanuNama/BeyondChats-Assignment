@@ -1,5 +1,5 @@
 """
-Reddit User Data Scraper using PRAW
+Reddit User Data Scraper using PRAW.
 """
 import praw
 import time
